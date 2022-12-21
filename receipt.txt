@@ -1,0 +1,17 @@
+                CASH RECEIPT
+               SUPERMARKET 123
+         12, MILKYWAY Galaxy/ Earth
+             Tel :123-456-7890
+CASHIER: №1520          DATE: 20/12/2022
+                        TIME: 18:00:53
+────────────────────────────────────────
+QTY DESCRIPTION            PRICE   TOTAL
+ 5  Onion                 $71.01 $355.05
+ 3  Milk                  $78.92 $236.76
+ 7  Lemon                 $32.04 $224.28
+ 9  Soap                  $10.50  $94.50
+ 1  Terminator           $617.54 $617.54
+════════════════════════════════════════
+TAXABLE TOT.                    $3056.26
+DISCOUNT   2%                     $61.12
+TOTAL                           $2995.14

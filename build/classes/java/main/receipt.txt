@@ -1,0 +1,16 @@
+                CASH RECEIPT
+               SUPERMARKET 123
+         12, MILKYWAY Galaxy/ Earth
+             Tel :123-456-7890
+CASHIER: No.1520        DATE: 21/12/2022
+                        TIME: 22:15:46
+QTY DESCRIPTION           PRICE    TOTAL
+----------------------------------------
+ 1  Onion               $71.01    $71.01
+ 7  Laptop            $7978.17 $55847.19
+ 2  Grape               $35.00    $70.00
+ 3  Computer          $7990.09 $23970.27
+========================================
+TAXABLE TOT.                   $79958.47
+DISCOUNT   3%                   $2398.75
+TOTAL                          $77559.72
